@@ -1,0 +1,314 @@
+Interview Questions
+
+
+General:
+
+
+Introduce yourself
+
+Do you smoke?
+
+When do you plan to marry?
+
+Do you have a Girlfriend?
+
+
+Networking and System Admin:
+
+
+Difference between Routed and Routing protocols. Give some protocol names of each.
+
+Experience in linux?
+
+Basic command, tell…
+
+What is a subnet? Why it is used? Calculate the subnet of /28
+
+Diff of lan/wan/man
+
+Osi layer 
+
+Which layer tcp is in?
+
+IPv4 v6 difference.. bit,
+
+Introduce yourself, your highlights, overview… representation of the candidate
+
+What is the most challenging thing you have done?
+
+Scripting? Did you do before? Can you do bash scripting?
+
+How long do you take to learn new things?
+
+Tell something about your family members.
+
+GSM vs CDMA vs Wimax
+
+2G vs 3G vs 4G
+
+GSM Call establishment architecture
+
+Basic archi of Wimax
+
+How do you design a small office?
+
+How does a routing table look like?
+
+What is IPTABLES?
+
+TCP vs UDP?
+
+Kernel vs shell? 
+
+What is the most used shell?
+
+PS command...can you use it?
+
+Pipe in linux?
+
+What is VMware?
+
+What is RAID? Why should you do this to a linux server?
+
+What is SMTP?
+
+What is IPMP?
+
+What is VPN? How does it work?
+
+
+
+
+
+Software Development
+
+
+What is Agile software development?
+
+What is SCRUM methodology? How do you define a SCRUM sprint?
+
+SDLC
+
+HLD and LLD
+
+Explain MVC and how do you implement them in your project?
+
+How do you choose between PHP/ASP/JSP for a project?
+
+Which languages did you work in?
+
+Describe the project you work on
+
+What is object orientation
+
+How do you define encapsulation in OOP perspective
+
+What is Polymorphism?
+
+How do you react if you are asked to come at office at 11:00 pm
+
+Database Query - Join, Nested Query, Insert, update, delete
+
+Describe the ACID rules of an RDBMS
+
+Swap operation in your preferred language
+
+Queue vs Stack - discuss, code in your preferred language
+
+Abstract class vs Interface - discuss when to use what, and how?
+
+Can an interface inherit another interface? Explain.
+
+What is scripting language? Is there any difference?
+
+Server-side scripting language - PHP?
+
+Exception-handling - what is this? Write in your preferred language
+
+throw vs throws in Java
+
+How do you manage database connectivity in PHP/Java/.NET?
+
+Why do you need a nested loop?
+
+The difference between while and do-while
+
+What are the standard character sets in database?
+
+Difference between GET and POST
+
+HTTP over XML
+
+SOAP vs XML over HTTP
+
+What is an API
+
+RESTful API?
+
+Difference between JSON, XML
+
+Structure vs Class - difference in terms of programming philosophy
+
+Can we model an end-to-end solution using API?
+
+Do you have any idea about service-oriented architecture (SOA)? Does API play any role in SOA?
+
+JDK vs JRE vs JVM
+
+What are the key features of Java?
+
+What is immutable object? Why is String immutable in Java?
+
+Write a simple error handling code in Java.
+
+Explain NullPointerException in Java
+
+Write 5 keywords of Java, which are not used in C/C++
+
+Difference between Arraylist and Vector in Java
+
+Arraylist vs Array
+
+Do you know about singleton? 
+
+What is the use of synchronized keyword?
+
+What is a static variable? When do you need a static variable? Can you do the same using final (static vs final)?
+
+Can you override private or static method in Java?
+
+Why is main() method static in Java?
+
+Briefly discuss the concept of Inheritance in Java
+
+Which class is the superclass of every class?
+
+When do you use thread in a software (Java)?
+
+How do you implement a thread? Discuss run() method in Java.
+
+Difference between class variable and instance variable in Java
+
+Why do you need an constructor? Use any language to explain, if necessary.
+
+Difference between continue and break in any language
+
+What is a default constructor?
+
+Can you make a constructor final in Java?
+
+What is a final class?
+
+Can a constructor be private? Explain.
+
+Explain the use of this keyword in Java
+
+JAR vs WAR files
+
+Difference between Java and Javascript (object oriented vs object based programming)
+
+Function overloading vs function overriding - any language
+
+What is Wrapper class? Why is it used?
+
+Why is generic used in Java?
+
+What is Java serialization?
+
+Discuss Java garbage collection
+
+Explain the scopes of public, private and protected variables
+
+Inner Class vs Nested Class
+
+What is Package in Java? How does package work?
+
+What is HTTPS? How does it work?
+
+Describe SSL working principles
+
+PHP-Database connectivity, how does it work?
+
+Suppose you have a table named “Salary”. Write the SQL command to find the second highest salary from this table.
+
+Suppose you have a query and the result has to be displayed in 10 different pages, 30 result items in each page. How would you load the data? All together or not?
+
+
+
+
+
+.NET
+
+OOP:
+
+What is OOP?
+
+What are the basics of OOP?
+
+What is Encapsulation? Give an example based of programing.
+
+What are the access modifiers of C#? What is the default access modifier in C#?
+
+What is Interface? What is the uses of it? Why is an important pillar of OOP?
+
+What is inheritance? What is derived class and parent class? 
+
+Does C# support multiple inheritance? If yes explain how?
+
+Explain polymorphism.
+
+What is abstraction? When you will use an abstract class? Explain a real life abstraction situation?
+
+Does abstract class has a constructor? What is the purpose of it where you cannot create an instance of abstract class.
+
+What is delegate? What is the proper way of using delegate? Give an example of multiple delegate?
+
+What is event is C#? Explain with an example.
+
+What is boxing and unboxing?
+
+Difference between structure and class.
+
+What is serialization and deserialization? 
+
+Build in Generics classes detail knowledge. Suppose List, ArrayList, HashTable stc. 
+
+What is recursion? What is the disadvantages of using recursion? 
+
+What is design pattern?
+
+What is software architecture?
+
+Difference between design pattern and software architecture.
+
+What is singleton? 
+
+
+****Write the output of a program****
+
+
+Memory Management: 
+
+Reference type and Value type detail knowledge.
+
+
+Entity Framework: 
+
+You should have the basic knowledge about entity framework and be confident to complete a CRUD operation using EF from scratch. 
+
+
+MVC: 
+
+What is MVC?
+
+Difference between viewbag, tempbag and dataview.
+
+On where view is rendering.  
+
+Detail Knowledge of Session Management. Where session variable are stored? 
+
+………………………………………………………………………………………………..
+
+
+
+Note: What technology write on your CV,  you should have a detail knowledge about this.

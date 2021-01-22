@@ -1,85 +1,6 @@
 Interview Questions
 
 
-General:
-
-
-Introduce yourself
-
-Do you smoke?
-
-When do you plan to marry?
-
-Do you have a Girlfriend?
-
-
-Networking and System Admin:
-
-
-Difference between Routed and Routing protocols. Give some protocol names of each.
-
-Experience in linux?
-
-Basic command, tell…
-
-What is a subnet? Why it is used? Calculate the subnet of /28
-
-Diff of lan/wan/man
-
-Osi layer 
-
-Which layer tcp is in?
-
-IPv4 v6 difference.. bit,
-
-Introduce yourself, your highlights, overview… representation of the candidate
-
-What is the most challenging thing you have done?
-
-Scripting? Did you do before? Can you do bash scripting?
-
-How long do you take to learn new things?
-
-Tell something about your family members.
-
-GSM vs CDMA vs Wimax
-
-2G vs 3G vs 4G
-
-GSM Call establishment architecture
-
-Basic archi of Wimax
-
-How do you design a small office?
-
-How does a routing table look like?
-
-What is IPTABLES?
-
-TCP vs UDP?
-
-Kernel vs shell? 
-
-What is the most used shell?
-
-PS command...can you use it?
-
-Pipe in linux?
-
-What is VMware?
-
-What is RAID? Why should you do this to a linux server?
-
-What is SMTP?
-
-What is IPMP?
-
-What is VPN? How does it work?
-
-
-
-
-
 Software Development
 
 
@@ -307,8 +228,3 @@ On where view is rendering.
 
 Detail Knowledge of Session Management. Where session variable are stored? 
 
-………………………………………………………………………………………………..
-
-
-
-Note: What technology write on your CV,  you should have a detail knowledge about this.
